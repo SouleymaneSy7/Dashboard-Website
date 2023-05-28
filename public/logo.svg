@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="113" viewBox="0 0 92 113">
+  <g id="Logo" transform="translate(-845 -64)">
+    <path id="Polygone_1" data-name="Polygone 1"
+      d="M33.169,7.507a5,5,0,0,1,8.662,0L70.674,57.5A5,5,0,0,1,66.343,65H8.657a5,5,0,0,1-4.331-7.5Z"
+      transform="translate(937 64) rotate(90)" fill="#ff3c41" />
+    <path id="Polygone_2" data-name="Polygone 2"
+      d="M33.169,7.507a5,5,0,0,1,8.662,0L70.674,57.5A5,5,0,0,1,66.343,65H8.657a5,5,0,0,1-4.331-7.5Z"
+      transform="translate(937 102) rotate(90)" fill="#76daff" />
+    <path id="Polygone_3" data-name="Polygone 3"
+      d="M33.169,7.507a5,5,0,0,1,8.662,0L70.674,57.5A5,5,0,0,1,66.343,65H8.657a5,5,0,0,1-4.331-7.5Z"
+      transform="translate(910 84) rotate(90)" fill="#47cf73" />
+  </g>
+</svg>
